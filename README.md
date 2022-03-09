@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricdesa
+- 👋 Hi, I’m Riccardo de' Salazar
 - 👀 I’m interested in aeronautics, uavs, control methods
 - 🌱 I’m currently learning Reinforcement Learning for uav control
 - 💞️ I’m looking to collaborate on flight simulations
